@@ -1,0 +1,16 @@
+{
+  "background_color": "#840303",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "BarTycoon",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "BarTycoon",
+  "start_url": "https://multdfol-rgb.github.io/BipTycoon/",
+  "theme_color": "#ffc2c2",
+  "lang": "ru",
+  "categories": [
+    "games"
+  ],
+  "id": "BarTycoon"
+}
